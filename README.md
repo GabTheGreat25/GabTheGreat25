@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-gabthegreat&style=for-the-badge&color=lightgrey" alt="gabthegreat" />
 </p>
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 - 🔭 I’m currently working on [Basics-Of-Javascript](https://github.com/GabTheGreat25/Basics-Of-JavaScript)
 
@@ -44,7 +45,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat&theme=tokyo-night" alt="gabthegreat" />
 </p>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ)
-
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
