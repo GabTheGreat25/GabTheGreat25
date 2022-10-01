@@ -2,7 +2,7 @@
 <h1 align="center">Hi Stranger, Welcome To My Profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <h3 align="center">I'm a third-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5DFF28&width=435&lines=I'm+Gabriel+Mendoza;College+Student;Front+End+Web+Developer)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-gabthegreat&style=for-the-badge&color=lightgrey" alt="gabthegreat" />
 </p>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy)
 
 - 🔭 I’m currently working on [Basics-Of-Javascript](https://github.com/GabTheGreat25/Basics-Of-JavaScript)
 
