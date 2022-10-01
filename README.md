@@ -44,3 +44,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat&theme=tokyo-night" alt="gabthegreat" />
 </p>
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ)
+
+
+
