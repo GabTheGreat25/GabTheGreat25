@@ -1,3 +1,4 @@
+[![@gaabsyy's Holopin board](https://holopin.io/api/user/board?user=gaabsyy)](https://holopin.io/@gaabsyy)
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Gabriel Mendoza</h1>
 
 <h3 align="center">I'm a third-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
@@ -5,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/Gaabsyy25" target="blank"><img src="https://img.shields.io/twitter/follow/gabnology?logo=twitter&style=for-the-badge" alt="gabnology" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Gaabsyy25" target="blank"><img src="https://img.shields.io/twitter/follow/Gaabsyy25?logo=twitter&style=for-the-badge" alt="gabnology" /></a> </p>
 
 - 🔭 I’m currently working on [Basics-Of-Javascript](https://github.com/GabTheGreat25/Basics-Of-JavaScript)
 
@@ -21,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gabnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabnology" height="30" width="40" /></a>
+<a href=["https://twitter.com/gabnology"](https://twitter.com/Gaabsyy25) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabnology" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19642389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19642389" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/codeeee_is_lifeeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codeeee_is_lifeeee/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Ha7VdK9V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ha7VdK9V" height="30" width="40" /></a>
@@ -34,5 +35,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gabthegreat&show_icons=true&locale=en" alt="gabthegreat" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabthegreat&" alt="gabthegreat" />
 </p>
-[![@gaabsyy's Holopin board](https://holopin.io/api/user/board?user=gaabsyy)](https://holopin.io/@gaabsyy)
+
 
