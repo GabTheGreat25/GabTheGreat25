@@ -47,8 +47,6 @@
 
 <div>&nbsp</div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gabthegreat25&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="gabthegreat" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gabthegreat25&theme=tokyonight&hide_border=true" alt="gabthegreat" />
