@@ -30,10 +30,10 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-<a href=["https://twitter.com/gabnology"](https://twitter.com/Gaabsyy25) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabnology" height="50" width="60" /></a>
-<a href="https://stackoverflow.com/users/19642389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19642389" height="50" width="60" /></a>
-<a href="https://fb.com/https://www.facebook.com/codeeee_is_lifeeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codeeee_is_lifeeee/" height="50" width="60" /></a>
-<a href="https://discord.gg/https://discord.gg/Ha7VdK9V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ha7VdK9V" height="50" width="60" /></a>
+<a href=["https://twitter.com/gabnology"](https://twitter.com/Gaabsyy25) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabnology" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/19642389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19642389" height="40" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/codeeee_is_lifeeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codeeee_is_lifeeee/" height="40" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Ha7VdK9V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ha7VdK9V" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">💻 Languages and Tools</h3>
