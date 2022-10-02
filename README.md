@@ -70,7 +70,7 @@
 
 <p align="center">
 <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="gabthegreat" />
-<img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night" alt="gabthegreat" />
+<img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" />
 </p>
 
 ## <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
