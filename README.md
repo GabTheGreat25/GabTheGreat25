@@ -4,7 +4,7 @@
 <h3 align="center">I'm a third-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
 
 <p>
-<img align="right" alt="Coding" height="525" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" height="510" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5DFF28&width=435&lines=I'm+Gabriel+Mendoza;College+Student;Front+End+Web+Developer)](https://git.io/typing-svg)
@@ -27,6 +27,8 @@
 - 📫 How to reach me **gabrielarafolmendoza25@gmail.com**
 
 - ⚡ Fun fact **I like to listen to music while coding**
+
+<div>&nbsp</div>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
