@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-gabthegreat&style=for-the-badge&color=lightgrey" alt="gabthegreat" />
 </p>
 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" alt="gabthegreat" width="300" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" alt="gabthegreat" width="375" />
 
 - 🔭 I’m currently working on [Basics-Of-Javascript](https://github.com/GabTheGreat25/Basics-Of-JavaScript)
 
