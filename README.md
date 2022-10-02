@@ -27,10 +27,6 @@
 
 - ⚡ Fun fact **I like to listen to music while coding**
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gabthegreat25&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="gabthegreat" />
-</p>
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
