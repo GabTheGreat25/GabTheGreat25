@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="gabthegreat" />
+<img src="https://raw.githubusercontent.com/gabthegreat25/gabthegreat25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="gabthegreat" />
 <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" />
 </p>
 
