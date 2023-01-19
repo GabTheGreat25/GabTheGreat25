@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-gabthegreat&style=for-the-badge&color=lightgrey" alt="gabthegreat" />
 </p>
 
-[![Spotify](https://novatorem-keci5m8rh-gabthegreat25.vercel.app/api/spotify)](https://open.spotify.com/user/31qvjsvrsasz3ywlhwvbuqpnjzvy)
+<!-- [![Spotify](https://novatorem-keci5m8rh-gabthegreat25.vercel.app/api/spotify)](https://open.spotify.com/user/31qvjsvrsasz3ywlhwvbuqpnjzvy) -->
 
 - 🔭 I’m currently working on [Basics-Of-Javascript](https://github.com/GabTheGreat25/Basics-Of-JavaScript)
 
@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I like to listen to music while coding**
 
-<div>&nbsp</div>
+<div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
@@ -71,11 +71,11 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/gabthegreat25/gabthegreat25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="gabthegreat" />
-<img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" /> -->
 </p>
 
-## <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+<!-- ## <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&cover_image=true&theme=default&bar_color_cover=true&)](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&redirect=true)
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" height="450" width="500" alt="gabthegreat"/>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" height="450" width="500" alt="gabthegreat"/> -->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
