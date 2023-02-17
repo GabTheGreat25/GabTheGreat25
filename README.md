@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5DFF28&width=435&lines=I'm+Gabriel+Mendoza;College+Student;Front+End+Web+Developer)](https://git.io/typing-svg)
 
 
-<p align="left"> <a href="https://twitter.com/Gaabsyy25" target="blank"><img src="https://img.shields.io/twitter/follow/Gaabsyy25?logo=twitter&style=for-the-badge" alt="gabnology" /></a>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-gabthegreat&style=for-the-badge&color=lightgrey" alt="gabthegreat" />
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=gabthegreat25&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="gabthegreat" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=gabthegreat25&theme=tokyonight&hide_border=true" alt="gabthegreat" />
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=gabthegreat25&theme=tokyonight&hide_border=true" alt="gabthegreat" />
 </p>
 
 
