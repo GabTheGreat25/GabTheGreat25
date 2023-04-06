@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm a third-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
 
-<h1 align="center">Check My [Portfolio](https://portfolio-gab.vercel.app/)</h1>
+<h1 align="center">You Can Check My <a href="https://portfolio-gab.vercel.app/">Portfolio Here</a></h1>
 
 <p>
 <img align="right" alt="Coding" height="510" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
