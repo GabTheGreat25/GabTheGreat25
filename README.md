@@ -1,7 +1,7 @@
 [![@gaabsyy's Holopin board](https://holopin.io/api/user/board?user=gaabsyy)](https://holopin.io/@gaabsyy)
 <h1 align="center">Hi Stranger, Welcome To My Profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<h3 align="center">I'm a third-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
+<h3 align="center">I'm a fourth-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
 
 <h1 align="center">You Can Check My <a href="https://portfolio-gab.vercel.app/">Portfolio Here</a></h1>
 
