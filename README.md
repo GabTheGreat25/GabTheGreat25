@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a fourth-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
 
-<h1 align="center">You Can Check My <a href="https://portfolio-gab.vercel.app/">Portfolio Here</a></h1>
+<h1 align="center">You Can Check My <a href="https://portfolio-gab.vercel.app/">Portfolio Here</a> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="75"/></h1>
 
 <p>
 <img align="right" alt="Coding" height="400" width="350" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
