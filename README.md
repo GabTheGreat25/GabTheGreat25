@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi Stranger, Welcome To My Profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<a href="https://gitroll.io/profile/uE7eppymmvVW4WqerKuLKw6zZQp33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uE7eppymmvVW4WqerKuLKw6zZQp33" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uE7eppymmvVW4WqerKuLKw6zZQp33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uE7eppymmvVW4WqerKuLKw6zZQp33" alt="GitRoll Profile Badge"/></a> 
 
 <h3 align="center">I'm a fourth-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
 
