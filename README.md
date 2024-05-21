@@ -9,7 +9,7 @@
 <h1 align="center">You Can Check My <a href="https://portfolio-gab.vercel.app/">Portfolio Here</a></h1>
 
 <p>
-<img align="right" alt="Coding" height="510" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" height="400" width="350" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5DFF28&width=435&lines=I'm+Gabriel+Mendoza;College+Student;Front+End+Web+Developer)](https://git.io/typing-svg)
@@ -33,7 +33,7 @@
 
 - ⚡ Fun fact **I like to listen to music while coding**
 
-<div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div><div>&nbsp</div>
+<div>&nbsp</div>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
@@ -74,8 +74,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabthegreat25&theme=tokyonight&utcOffset=8" alt="gabthegreat" />
 </p>
 
+[![GabTheGreat25's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabTheGreat25&bg_color=1a1b27&color=38bdae&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/gabthegreat25/gabthegreat25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="gabthegreat" />
+<img width="2000" src="https://raw.githubusercontent.com/gabthegreat25/gabthegreat25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="gabthegreat" />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" /> -->
 </p>
 
