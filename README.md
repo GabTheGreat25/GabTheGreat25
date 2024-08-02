@@ -90,4 +90,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&cover_image=true&theme=default&bar_color_cover=true&)](https://spotify-github-profile.vercel.app/api/view?uid=31qvjsvrsasz3ywlhwvbuqpnjzvy&redirect=true)
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31qvjsvrsasz3ywlhwvbuqpnjzvy" height="450" width="500" alt="gabthegreat"/> -->
 
+<h3 align="center">♟️ Chess Ratings</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=Gaabsyy&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=Gaabsyy
+theme=graywhite" width="1200">
+</picture>
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
