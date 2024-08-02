@@ -91,7 +91,7 @@
  </p>
  
  <p align="center">
-<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="gabthegreat"/>
+<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="gabthegreat"/>
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3duezkfydiyofgbdfoz6zwpm" height="450" width="500" alt="gabthegreat"/>
 </p>
 
