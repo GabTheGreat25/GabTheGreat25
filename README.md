@@ -86,19 +86,20 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=gabthegreat25&theme=tokyo-night&hide_border=true" alt="gabthegreat" /> -->
 </p>
 
+ <p align="center">
+   <h3 align="center"><img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="40" align="center"> My Music</h3>
+ </p>
+ 
+ <p align="center">
+<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="gabthegreat"/>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3duezkfydiyofgbdfoz6zwpm" height="450" width="500" alt="gabthegreat"/>
+</p>
+
 <h3 align="center">♟️ Chess Ratings</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=Gaabsyy&theme=dark">
   <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=Gaabsyy
 theme=graywhite" width="1200">
 </picture>
-
- <p align="center">
- <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30" align="center">&nbsp;My Music 
-   </p>
- <p align="center">
-<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gi3duezkfydiyofgbdfoz6zwpm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="gabthegreat"/>
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3duezkfydiyofgbdfoz6zwpm" height="450" width="500" alt="gabthegreat"/>
-</p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
