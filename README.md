@@ -4,7 +4,12 @@
 
 <a href="https://gitroll.io/profile/uE7eppymmvVW4WqerKuLKw6zZQp33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uE7eppymmvVW4WqerKuLKw6zZQp33" alt="GitRoll Profile Badge"/></a>
 
-<h3 align="center">I'm a fourth-year college student at Technological University of the Philippines in Taguig City, where I'm majoring in information technology. At the meantime, I'm concentrating on web development and creating side projects that I might use for my profession in the future.</h3>
+<h3 align="justify">As a cum laude graduate holding a Bachelor of Science in Information Technology from the Technological
+University of the Philippines - Taguig, I am driven by a passion for leveraging technology to create
+meaningful change. With a solid foundation in IT concepts and a commitment to continuous learning, I am
+equipped to contribute effectively to the development of cutting-edge technologies. My goal is to apply
+my knowledge and skills to innovate solutions that address real-world challenges and drive positive
+impact.</h3>
 
 <h1 align="center">You Can Check My <a href="https://gabriel-mendoza-portfolio.vercel.app">Portfolio Here</a> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="75"/></h1>
 
